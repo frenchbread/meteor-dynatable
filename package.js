@@ -1,6 +1,6 @@
 Package.describe({
     name: 'frenchbread:dynatable',
-    version: '0.0.4',
+    version: '0.1.0',
     // Brief, one-line summary of the package.
     summary: 'JQuery datatable plugin for meteor with sorting, search and pagination.',
     // URL to the Git repository containing the source code for this package.
